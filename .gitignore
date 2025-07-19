@@ -1,2 +1,4 @@
 .ipynb_checkpoints/**
 *.pdf
+glove.6B.100d.txt
+venv-gensim/**
