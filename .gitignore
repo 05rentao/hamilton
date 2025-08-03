@@ -3,3 +3,5 @@
 glove.6B.100d.txt
 venv-gensim/**
 .env
+*.npy
+*.npz
